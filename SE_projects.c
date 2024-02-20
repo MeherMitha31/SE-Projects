@@ -31,7 +31,7 @@ void checkPrime(int N)
 // driver code 
 int main() 
 { 
-	int N = 546; 
+	int N = 451; 
 
 	checkPrime(N); 
 
